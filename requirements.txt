@@ -3,4 +3,6 @@ opencv-python-headless==4.8.0.74
 scikit-learn==1.1.3
 imutils==0.5.4
 joblib==1.2.0
+setuptools
+pip>=21.0
 face_recognition @ git+https://github.com/OorjitSethi/face_recognition.git
